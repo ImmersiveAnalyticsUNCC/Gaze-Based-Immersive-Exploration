@@ -2,8 +2,8 @@
 
 This project explores the head tracking function on the latest Microsoft HoloLens – where gaze is defined as the ray starting at the head location and points forward. We present a gaze-directed visualization approach to study ensembles of 2D oil spill simulations in mixed reality. Our approach allows users to place an ensemble as an image stack in a real environment and explore the ensemble with gaze tracking. The prototype system demonstrates the challenges and promising effects of gaze-based interaction in the state-of-the-art mixed reality.
 
-<img align="left" height="200" src="https://github.com/ImmersiveAnalyticsUNCC/Gaze-Based-Immersive-Exploration/blob/master/images/example1.png">
-<img align="left" height="200" src="https://github.com/ImmersiveAnalyticsUNCC/Gaze-Based-Immersive-Exploration/blob/master/images/example2.png">
+<img height="200" src="https://github.com/ImmersiveAnalyticsUNCC/Gaze-Based-Immersive-Exploration/blob/master/images/example1.png">
+<img height="200" src="https://github.com/ImmersiveAnalyticsUNCC/Gaze-Based-Immersive-Exploration/blob/master/images/example2.png">
 <BR><BR>
   
 ## Publication
