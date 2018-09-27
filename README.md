@@ -4,7 +4,7 @@ This project explores the head tracking function on the latest Microsoft HoloLen
 
 <a href="url"><img src="https://github.com/ImmersiveAnalyticsUNCC/Gaze-Based-Immersive-Exploration/blob/master/images/example1.png" align="left" height="200" ></a>
 <a href="url"><img src="https://github.com/ImmersiveAnalyticsUNCC/Gaze-Based-Immersive-Exploration/blob/master/images/example2.png" align="left" height="200" ></a>
-<BR>
   
-Publication:
+## Publication
+
 Gaze-directed Immersive Visualization of Scientific Ensembles, Eli Mahfound and Aidong Lu, Workshop on Immersive Analytics (collocated with ACM Interactive Surfaces & Spaces) (IV), 2016. [PDF](https://webpages.uncc.edu/alu1/papers/Ensemble-IV16.pdf)
